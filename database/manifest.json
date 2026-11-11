@@ -1,0 +1,15 @@
+{
+  "seed": 20261022,
+  "starter": false,
+  "vendors": 30,
+  "purchase_orders": 119,
+  "purchase_order_lines": 357,
+  "goods_receipts": 99,
+  "goods_receipt_lines": 198,
+  "invoices": 149,
+  "invoice_lines": 298,
+  "exceptions": 5,
+  "payments": 4,
+  "approvals": 4,
+  "generated_at": "2026-11-11T08:50:16.947218"
+}

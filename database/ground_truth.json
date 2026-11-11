@@ -1,0 +1,13 @@
+{
+  "seed": 20261022,
+  "dataset": "starter",
+  "notes": "This file contains the ground truth used for evaluation and must remain separate from operational matching logic.",
+  "scenarios": [
+    "clean_match",
+    "price_variance",
+    "quantity_mismatch",
+    "duplicate_invoice",
+    "missing_receipt",
+    "tax_mismatch"
+  ]
+}
